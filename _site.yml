@@ -1,0 +1,7 @@
+name: "Colorado River District Reservoir Operations Data"
+navbar:
+  left:
+    - text: "Colorado River District Reservoir Operations Data"
+      href: index.html
+output:
+  html_document
